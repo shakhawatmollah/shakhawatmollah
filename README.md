@@ -66,6 +66,7 @@ Feel free to connect with me on GitHub, where I’m always sharing my latest pro
 Find me around the web 🌎:
 
 💼 Connecting and sharing professional updates on [**LinkedIn**](https://www.linkedin.com/in/shakhawatmollah)
+
   
 ## 🚀 Languages and Tools
 ### Programming Languages:
