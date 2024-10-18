@@ -19,7 +19,7 @@ Hi there! 👋 I’m an experienced software developer with 9 years of Java expe
 - Apache Tomcat, GlassFish, Apache HTTP Server
 
 ### Development Methodologies:
-- Agile, Scrum, UML
+- Agile, Scrum, UML, Microservice
 
 ### Development Tools:
 - Git, Bitbucket, Confluence, Jira, Slack, Postman, MS Visual SourceSafe, MS Visio
