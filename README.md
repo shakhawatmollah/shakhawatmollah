@@ -1,4 +1,4 @@
-# 💻 Experienced Software Developer
+# 💻 Experienced Full-Stack Software Developer
 
 Hi there! 👋 I’m an experienced software developer with 9 years of Java experience and 5 years of PHP experience. I have a solid background in the **Information Technology** and **Services** industry. My skill set covers full-stack development, project management, and business domain expertise.
 
