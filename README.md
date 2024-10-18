@@ -26,6 +26,7 @@ Hi there! 👋 I’m an experienced software developer with 9 years of Java expe
 
 ### Technologies & Utils:
 - Swagger, Spring Boot Actuator
+- Redis, Kafka
 - JavaScript, jQuery, HTML5, CSS3
 
 ---
