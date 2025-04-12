@@ -6,7 +6,7 @@ Hi there! 👋 I’m an experienced software developer with 9 years of Java expe
 
 ## 🚀 Skills & Expertise
 ### Programming Languages:
-- **Java**: J2EE, JPA, Hibernate, Spring Boot, Spring MVC, JSF, GWT, Angular, Thymeleaf, etc.
+- **Java**: J2EE, JPA, Hibernate, Spring Boot, Spring MVC, JSF, GWT, Angular, Thymeleaf, JTE, etc.
 - **PHP**: Laravel, CakePHP, CodeIgniter
 
 ### Databases:
@@ -22,7 +22,7 @@ Hi there! 👋 I’m an experienced software developer with 9 years of Java expe
 - Agile, Scrum, UML, Microservice
 
 ### Development Tools:
-- Git, Bitbucket, Confluence, Jira, Slack, Postman, MS Visual SourceSafe, MS Visio
+- Git, Bitbucket, Confluence, Jira, Slack, Postman, MS Visual SourceSafe, MS Visio, MS Project, Azur DevOps
 
 ### Technologies & Utils:
 - Swagger, Spring Boot Actuator
