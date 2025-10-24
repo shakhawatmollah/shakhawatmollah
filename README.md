@@ -123,9 +123,9 @@ I have successfully delivered solutions across diverse business domains:
 
 I am passionate about building **scalable, efficient, and innovative software solutions** that solve real-world business problems. With a strong foundation in both backend and frontend technologies, I thrive in roles that require **technical leadership, strategic thinking, and hands-on development**.
 
-Whether it's architecting microservices, leading development teams, or collaborating with stakeholders to deliver complex enterprise systems, I'm committed to **excellence, continuous learning, and delivering high-quality solutions**.
+Whether it's architecting microservices, leading development teams, or collaborating with stakeholders to deliver complex enterprise systems, I'm committed to **excellence, continuous learning, and providing high-quality solutions**.
 
-**Currently open to opportunities** in Software Engineering, Technical Leadership, and Project Management roles, particularly in **Malaysia, Singapore, and international markets**.
+**Currently open to opportunities** in Software Engineering, Technical Leadership, and Project Management roles, particularly in **EU, Japan, Malaysia, Singapore, and international markets**.
 
 ---
 
